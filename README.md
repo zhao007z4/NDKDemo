@@ -1,1 +1,0 @@
-Apk download：https://github.com/zhao007z4/IP-Monitor/blob/master/app/release/app-release.apk
